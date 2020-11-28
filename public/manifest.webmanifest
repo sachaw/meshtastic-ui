@@ -1,0 +1,8 @@
+{
+  "short_name": "Meshtastic",
+  "name": "Meshtastic UI",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1F2937",
+  "background_color": "#ffffff"
+}
